@@ -14,7 +14,7 @@ const AboutSubmission = props => {
             <p>
               All the Problems are solved in React Js. The code seen on upcoming sections are printed using toString method on Functions.
               <br/>
-              Visit <a href={"https://github.com/Ritika42894/Final-Logical-Test"}>Github Repository</a> to view full Source Code
+              Visit <a href={"https://github.com/Ritika42894/Basic-Logical-Test"}>Github Repository</a> to view full Source Code
             </p>
           </Card.Text>
         </Card.Body>

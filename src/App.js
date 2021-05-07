@@ -7,6 +7,7 @@ import Question3 from "./components/Question3";
 import Question4 from "./components/Question4";
 import Question5 from "./components/Question5";
 import AboutSubmission from "./components/AboutSubmission";
+import TodoList from "./components/TodoList";
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
           <li><a href="#question3">Question 3</a></li>
           <li><a href="#question4">Question 4</a></li>
           <li><a href="#question5">Question 5</a></li>
+          <li><a href="#todo">To Do</a></li>
         </ul>
       </header>
       <AboutSubmission />
@@ -32,6 +34,7 @@ function App() {
       <Question3 />
       <Question4 />
       <Question5 />
+      <TodoList />
     </div>
   );
 }
